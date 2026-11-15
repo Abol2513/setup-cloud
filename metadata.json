@@ -1,0 +1,6 @@
+{
+  "name": "Setup cloud",
+  "description": "Cloudflare Workers & Developer Platform Studio for Android with RTL Persian UI and LTR code, SQL, HTTP, and live tail log consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
